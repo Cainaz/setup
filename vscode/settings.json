@@ -1,0 +1,38 @@
+{
+    "workbench.colorTheme": "One Dark Pro",
+    "files.autoSave": "afterDelay",
+    "editor.formatOnSave": true,
+    "files.exclude": {
+        "**/__pycache__": true,
+        "**/.idea": true,
+        "**/.serverless": true,
+        "**/.terraform": true,
+        "**/.vscode": true,
+        "**/node_modules": true,
+        "**/package-lock.json": true,
+        "**/storage": true
+    },
+    "python.formatting.provider": "black",
+    "editor.semanticTokenColorCustomizations": {
+        "[One Dark Pro]": {
+            // Apply to this theme only
+            "enabled": true,
+            "rules": {
+                "variable": "#cfcfcf",
+            }
+        }
+    },
+    "workbench.iconTheme": "vscode-icons",
+    "go.toolsManagement.autoUpdate": true,
+    "vsicons.dontShowNewVersionMessage": true,
+    "editor.fontFamily": "JetBrains Mono",
+    "editor.fontLigatures": true,
+    "terminal.integrated.fontFamily": "JetBrains Mono",
+    //"terminal.integrated.fontFamily": "monospace, PowerlineSymbols",
+    "editor.cursorStyle": "block",
+    "go.inlayHints.parameterNames": true,
+    "go.inlayHints.functionTypeParameters": true,
+    "editor.inlayHints.padding": true,
+    "editor.fontSize": 15,
+    "editor.fontWeight": "normal",
+}
