@@ -1,0 +1,1 @@
+You'll probably need to install the jetbrains mono font in order to get the font working properly.
